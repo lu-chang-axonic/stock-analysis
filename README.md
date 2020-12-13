@@ -21,7 +21,7 @@ The two message boxes below how the run time of the analysis was before the refa
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/Original%20Run%20Time%202018.PNG)
 
 The two message boxes below how the run time of the analysis was after the refactoring:
-<img align="left" width="100" height="100" src="https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/VBA_Challenge_2017.PNG">
+![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/VBA_Challenge_2017.PNG)
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/VBA_Challenge_2018.PNG)
 
 So, clearly the performance of the code was improved, as reflected by the reduced execution time.
