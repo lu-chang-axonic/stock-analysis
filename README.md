@@ -11,7 +11,7 @@ As shown in the images below,
 
 ![](2017 Result for Stock Analysis.png)
 		
-
+https://github.com/lu-chang-axonic/stock-analysis/blob/main/2017%20Result%20for%20Stock%20Analysis.png
 
 
 ## Summary
