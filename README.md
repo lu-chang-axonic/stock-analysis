@@ -7,12 +7,17 @@ The project refactors the module 2 solution code by using functions such as For,
 
 #### Stock Performance Comparison Between 2017 and 2018
 
-As shown in the images below, 
+The two tables below show the outcome of the analysis: 
 
-![](2017 Result for Stock Analysis.png)
-		
-!https://github.com/lu-chang-axonic/stock-analysis/blob/main/2017%20Result%20for%20Stock%20Analysis.png
+![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/2017%20Result%20for%20Stock%20Analysis.png)
 
+![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/2018%20Result%20for%20Stock%20Analysis.png)
+
+The color coded result made it easy to identify 2017 being a better year of the researched stocks. 
+
+The two message boxes below how the run time of the analysis:
+
+![](
 
 ## Summary
 #### What are the advantages or disadvantages of refactoring code?
