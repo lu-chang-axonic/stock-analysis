@@ -14,9 +14,12 @@ The two tables below show the outcome of the analysis:
 
 The color coded result made it easy to identify 2017 being a better year of the researched stocks. 
 
-The two message boxes below how the run time of the analysis:
+The two message boxes below how the run time of the analysis was before the refactor:
 
-![](
+![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/Original%20Run%20Time%202017.PNG)
+![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/Original%20Run%20Time%202018.PNG)
+
+The two message boxes below how the run time of the analysis was after the refactor:
 
 ## Summary
 #### What are the advantages or disadvantages of refactoring code?
