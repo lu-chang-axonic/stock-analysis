@@ -9,7 +9,7 @@ The project refactors the module 2 solution code by using functions such as For,
 
 As shown in the images below, 
 
-![]/2017 Result for Stock Analysis.png
+![](images/2017 Result for Stock Analysis.png)
 		
 
 
