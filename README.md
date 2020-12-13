@@ -21,6 +21,7 @@ The two message boxes below how the run time of the analysis was before the refa
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/Original%20Run%20Time%202018.PNG)
 
 The two message boxes below how the run time of the analysis was after the refactoring:
+
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/VBA_Challenge_2017.PNG)
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/VBA_Challenge_2018.PNG)
 
