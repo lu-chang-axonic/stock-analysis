@@ -21,13 +21,14 @@ The two message boxes below how the run time of the analysis was before the refa
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/VBA_Challenge_2018.PNG)
 
 The two message boxes below how the run time of the analysis was after the refactoring by using an Index, saved in "VBA_Challenge Using Index:
+
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/Enhanced%20Run%20Time%202017.PNG)
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/Enhanced%20Run%20Time%202018.PNG)
 
 So, the performance of the code was improved after the refactoring, as reflected by the reduced execution time. The array and nested loop has made the collection of information very efficient (shown below). 
 
-For i = 2 To RowCount
-    
+   
+        For i = 2 To RowCount
         '3a) Increase volume for current ticker
         If Cells(i, 1).Value = tickers(tickerIndex) Then
         tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8).Value
