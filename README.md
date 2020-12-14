@@ -1,5 +1,5 @@
 <p align="center">
-# Stock Analysis
+//# Stock Analysis
 
 ## Overview of Project
 The project refactors the module 2 solution code by using functions such as For, IF, Array, and Loop. The codes efficiently run through all stocks to calculate the trading volume and return by ticker. It also is user friendly by having input message box and runtime message to help the user understand what was done with how much time. 
