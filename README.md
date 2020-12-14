@@ -25,7 +25,19 @@ The two message boxes below how the run time of the analysis was after the refac
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/VBA_Challenge_2017.PNG)
 ![](https://github.com/lu-chang-axonic/stock-analysis/blob/main/images/VBA_Challenge_2018.PNG)
 
-So, clearly the performance of the code was improved after the refactoring, as reflected by the reduced execution time.
+So, the performance of the code was improved after the refactoring, as reflected by the reduced execution time. The array and nested loop has made the collection of information very efficient (shown below). 
+
+        
+    ''2a) Create a for loop to initialize the tickerVolumes to zero.
+    For t = 0 To 11
+        ticker = tickers(t)
+        tickerVolumes = 0
+       Worksheets(yearValue).Activate
+
+        
+    ''2b) Loop over all the rows in the spreadsheet.
+    For i = 2 To RowCount
+
 
 ## Summary
 #### What are the advantages or disadvantages of refactoring code?
