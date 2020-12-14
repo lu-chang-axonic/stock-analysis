@@ -51,11 +51,10 @@ So, the performance of the code was improved after the refactoring, as reflected
          End If
           
             '3d Increase the tickerIndex.
+         Next i
          
-                 
-    Next i
-
-
+             
+    
 ## Summary
 #### What are the advantages or disadvantages of refactoring code?
 ###### Advantages
