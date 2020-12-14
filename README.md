@@ -40,5 +40,5 @@ So, clearly the performance of the code was improved after the refactoring, as r
 3. It is an easy way to learn, but the learned knowledge may not be solidly yours because everything is already pre-written.
 
 #### How do these pros and cons apply to refactoring the original VBA script?
-In doing this challenge, I found myself following the question and the original VBA scripts really easily and finished the project very quickly. However, I am not sure if I have truly learned how to code the script given a different problem.
+In doing this challenge, I found myself following the question and the original VBA scripts really easily and finished the project very quickly. However, I am not sure if being given a different problem, I would be able to write the script without referring back the sample repeatedly as I do not remember the codes in details.
 
